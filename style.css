@@ -1,0 +1,61 @@
+.text1{
+	position:absolute;
+	background: Purple;
+	font-size: 25px;
+	margin-top: 500px;
+	margin-left: 1000px;
+	margin-right: 1000px;
+	padding-top: 20px;
+	padding-bottom:20px;
+	padding-left: 50px;
+}
+
+.text1_1{
+	position:absolute;
+	background: Purple;
+	font-size: 25px;
+	margin-top: 500px;
+	margin-left: 320px;
+	margin-right: 1500px;
+	padding-top: 20px;
+	padding-bottom:20px;
+	padding-left: 50px;
+}
+.text1_2{
+	position:absolute;
+	background: Purple;
+	font-size: 25px;
+	margin-top: 500px;
+	margin-left: 820px;
+	margin-right: 1000px;
+	padding-top: 20px;
+	padding-bottom:20px;
+	padding-left: 50px;
+}
+.text2 {
+	position:absolute;
+	background: pink;
+	color: white;
+	font-size: 35px;
+	margin: 120px;
+	padding: 10px;
+	border:20px solid #ffff00;
+	width: 400px;
+	
+}
+.image{
+	position:absolute;
+	/*margin-top: 50px;*/
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: 50px;
+}
+.font1{
+	color:purple;
+	font-size: 35px;
+}
+
+img{
+	width: 200%;
+
+}
